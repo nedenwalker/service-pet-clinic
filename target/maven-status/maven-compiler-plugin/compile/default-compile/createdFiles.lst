@@ -20,3 +20,4 @@ org/springframework/samples/petclinic/owner/PetController.class
 org/springframework/samples/petclinic/vet/Vets.class
 org/springframework/samples/petclinic/model/NamedEntity.class
 org/springframework/samples/petclinic/owner/VisitController.class
+org/springframework/samples/petclinic/model/package-info.class
